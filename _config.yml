@@ -97,6 +97,7 @@ userguide_schema_devel : /userguides/schema/devel
 userguide_mapreduce_devel : /userguides/mapreduce/devel
 userguide_express_devel : /userguides/express/devel
 userguide_rest_devel : /userguides/rest/devel
+userguide_scoring_devel : /userguides/scoring/devel
 
 tutorial_phonebook_devel : /tutorials/phonebook-tutorial/devel
 tutorial_music_devel : /tutorials/music-recommendation/devel
@@ -124,6 +125,9 @@ music_express_devel_branch : master
 
 rest_devel_version: 1.0.1
 rest_devel_branch : master
+
+scoring_devel_version : 0.10.0
+scoring_devel_branch : master
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
